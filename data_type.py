@@ -17,3 +17,6 @@ if str1 in str2:
 else:
     print("Строка1 не входит в строку2")
 
+x = "My name is Agent Smith"
+print(x[1]) # y
+print(x[3:16:3]) # nesgt
